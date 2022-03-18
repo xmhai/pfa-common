@@ -1,4 +1,4 @@
-package com.linh.pfa.common.dto;
+package com.lin.pfa.common.dto;
 
 import java.math.BigDecimal;
 

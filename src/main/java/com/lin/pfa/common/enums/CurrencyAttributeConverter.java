@@ -1,4 +1,4 @@
-package com.linh.pfa.common.enums;
+package com.lin.pfa.common.enums;
 
 import javax.persistence.AttributeConverter;
 import javax.persistence.Converter;

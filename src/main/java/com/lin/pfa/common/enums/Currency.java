@@ -1,4 +1,4 @@
-package com.linh.pfa.common.enums;
+package com.lin.pfa.common.enums;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonValue;
